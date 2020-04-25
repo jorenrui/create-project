@@ -32,6 +32,9 @@ yarn @jorenrui/create-project
 # Create a directory/folder
 mkdir new-app
 
+# Navigate to the created directory
+cd new-app
+
 # Run the cli
 create-project
 # or
