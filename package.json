@@ -1,0 +1,41 @@
+{
+  "name": "@jorenrui/create-project",
+  "version": "0.1.0",
+  "description": "A CLI to bootstrap my projects.",
+  "main": "src/index.js",
+  "bin": {
+    "@jorenrui/create-project": "bin/create-project",
+    "create-project": "bin/create-project"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "bin/",
+    "src/",
+    "templates/"
+  ],
+  "keywords": [
+    "cli",
+    "create-project"
+  ],
+  "author": {
+    "name": "Joeylene Rivera",
+    "email": "joeylenerivera@gmail.com",
+    "url": "https://github.com/jorenrui"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "arg": "^4.1.3",
+    "chalk": "^4.0.0",
+    "esm": "^3.2.25",
+    "execa": "^4.0.0",
+    "inquirer": "^7.1.0",
+    "listr": "^0.14.3",
+    "ncp": "^2.0.0",
+    "pkg-install": "^1.0.0"
+  }
+}
