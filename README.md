@@ -55,5 +55,10 @@ Currently there are two templates:
 | --git     | Initialize the new project with git |
 | --install | Install the dependencies            |
 
+## Changelog
+
+[Changelog](CHANGELOG.md)
+
 ## License
+
 [MIT](LICENSE)
