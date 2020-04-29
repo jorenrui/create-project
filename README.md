@@ -4,7 +4,7 @@
 ![NPM Version](https://img.shields.io/badge/npm-v0.1.0-orange)
 ![License Status](https://img.shields.io/badge/license-MIT-blue)
 
-![create-project CLI](assets/cli.png)
+![create-project CLI](https://github.com/jorenrui/create-project/blob/master/assets/cli.png)
 
 ## Features
 
@@ -57,8 +57,8 @@ Currently there are two templates:
 
 ## Changelog
 
-[Changelog](CHANGELOG.md)
+[Changelog](https://github.com/jorenrui/create-project/blob/master/CHANGELOG.md)
 
 ## License
 
-[MIT](LICENSE)
+[MIT](https://github.com/jorenrui/create-project/blob/master/LICENSE)
