@@ -1,7 +1,7 @@
 # @jorenrui/create-project
 > A personal CLI to boostrap new projects 👩‍💻
 
-![NPM Version](https://img.shields.io/badge/npm-v0.1.0-orange)
+![NPM Version](https://img.shields.io/badge/npm-v1.0.0-orange)
 ![License Status](https://img.shields.io/badge/license-MIT-blue)
 
 ![create-project CLI](https://github.com/jorenrui/create-project/blob/master/assets/cli.png)
