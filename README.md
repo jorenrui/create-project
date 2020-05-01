@@ -47,6 +47,8 @@ Currently there are two templates:
 - JavaScript
 - TypeScript
 
+Both of these templates have ESLint for its linter and Jest for testing.
+
 ### Options
 
 | command   | description                         |
