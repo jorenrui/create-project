@@ -4,6 +4,17 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [[1.0.0]](https://github.com/jorenrui/create-project/releases/tag/v1.0.0) - 2020-05-01
+### Changed
+- Update README regarding the templates
+
+### Fixed
+- Fix broken links in npm
+
+### Added
+- Add Jest and ESLint to JavaScript Template
+- Add Jest and ESLint to TypeScript Template
+
 ## [[0.2.0]](https://github.com/jorenrui/create-project/releases/tag/v0.2.0) - 2020-04-26
 ### Changed
 - Update README to include description, installation, usage and etc.
