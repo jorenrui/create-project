@@ -1,0 +1,3 @@
+const isInternalLink = (link: string) => /^\/(?!\/)/.test(link);
+
+export default isInternalLink;
