@@ -4,7 +4,7 @@
 ![NPM Version](https://img.shields.io/badge/npm-v1.0.0-orange)
 ![License Status](https://img.shields.io/badge/license-MIT-blue)
 
-![create-project CLI](https://github.com/jorenrui/create-project/blob/master/assets/cli.png)
+![create-project CLI](https://raw.githubusercontent.com/jorenrui/create-project/HEAD/assets/cli.png)
 
 ## Features
 
